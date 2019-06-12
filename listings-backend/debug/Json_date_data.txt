@@ -1,0 +1,31 @@
+ {
+               "fields": {
+                      "name" : "2675 trafaigar street 12  3",
+                      "slug" : "3974048472675trafaigarstreet1231866679234",
+                      "_archived":false,
+                      "_draft": false,           
+                      "sale-price" : "2000",
+                      "property-type" : "Apartment",
+                      "number-of-rooms" : "2",
+                      "number-of-baths" : "1",
+                      "square-feet" : "1000",
+                      "year-built" : "1998",
+                      "lot-size" : "1200",
+                      "agent-contact-info" : "Rennie",
+                      "property-description" : "test","floorplan" :"","image-1" :"","image-2" :"","image-3" :"","image-4" :"","image-5" :"","image-6" :"","image-7" :"","image-8" :"","image-9" :"","floorplans" :""}
+                 } {
+               "fields": {
+                      "name" : "2675 trafaigar street 12  3",
+                      "slug" : "11991714062675trafaigarstreet123332438319",
+                      "_archived":false,
+                      "_draft": false,           
+                      "sale-price" : "2000",
+                      "property-type" : "Duplex",
+                      "number-of-rooms" : "2",
+                      "number-of-baths" : "1",
+                      "square-feet" : "1000",
+                      "year-built" : "1998",
+                      "lot-size" : "1200",
+                      "agent-contact-info" : "Rennie",
+                      "property-description" : "test","floorplan" :"","image-1" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/ggggg.jpg","image-2" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/abstract.jpg","image-3" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/abstract.jpg","image-4" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/abstract.jpg","image-5" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/abstract.jpg","image-6" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/ggggg.jpg","image-7" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/ggggg.jpg","image-8" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/ggggg.jpg","image-9" : "https://castlelab.properties/LoginWF_t/listings-backend/uploaded_images/abstract.jpg","floorplans" :""}
+                 }

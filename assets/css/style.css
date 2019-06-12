@@ -1,0 +1,774 @@
+a, a:active, a:focus, a:active {
+     text-decoration:none !important 
+}
+ a:focus {
+     outline:0px solid 
+}
+ img {
+     max-width:100% 
+}
+ .fix:after{
+     content:"";
+     display:table;
+     clear:both;
+}
+ h1, h2, h3, h4, h5, h6 {
+     font-weight:normal;
+     margin:0 0 15px;
+}
+ .column {
+     width:960px;
+     margin:0 auto;
+     display:block;
+     transition: all 0.9s ease 0s;
+     -moz-transition: all 0.9s ease 0s;
+     -webkit-transition: all 0.9s ease 0s;
+     -o-transition: all 0.9s ease 0s;
+}
+ ul {
+     margin:0;
+     padding:0;
+     list-style:none 
+}
+ body{
+     margin:0;
+     padding:0;
+     font-family: 'Lato';
+     position:relative;
+     line-height: 30px;
+}
+ table{
+     line-height:inherit;
+}
+ h2.susan-heading{
+     font-size:37px;
+     color:#000000;
+     font-family: 'Avenir Next';
+     line-height:37px;
+}
+/***** Header CSS start *****/
+ .susan-header-area {
+     position: absolute;
+     left: 0px;
+     top: 0px;
+     width: 100%;
+     z-index:99;
+}
+ .shauna-header-change{
+     background-color:#fff;
+     z-index:999999;
+     transition: all 0.3s ease 0s;
+     -moz-transition: all 0.3s ease 0s;
+     -webkit-transition: all 0.3s ease 0s;
+     -o-transition: all 0.3s ease 0s;
+     position:fixed;
+}
+ .susan-main-menu ul li a{
+     letter-spacing: 2.36px;
+     color: #fff !important;
+     font-size: 18px;
+     padding-left: 25px !important;
+     padding-right: 25px !important;
+     padding-bottom: 25px !important;
+	 font-weight: 300;
+}
+ .shauna-header-change .susan-main-menu ul li a{
+     color: #000000!important;
+}
+ .susan-main-menu ul li .dropdown-menu a{
+     color: #000000 !important;
+     letter-spacing: 1px;
+     font-size: 14px;
+     padding-bottom: 10px !important;
+     background:transparent!important;
+}
+ .susan-main-menu ul li .dropdown-menu:last-child a{
+     padding-bottom:0px!important;
+}
+ .susan-main-menu ul li .dropdown-menu:before{
+     content: "";
+     background-image: url(../images/dropdown-arrow.png);
+     background-repeat: no-repeat;
+     position: absolute;
+     top: -7px;
+     left: 30px;
+     width: 21px;
+     height: 8px;
+}
+ .susan-main-menu ul li a.active{
+     border-bottom:2px solid #fff;
+}
+ .shauna-header-change .susan-main-menu ul li a.active{
+     border-bottom:2px solid #000;
+}
+ .dropdown:hover>.dropdown-menu {
+     display: block;
+}
+ .navbar-toggler {
+     background-color: #000;
+}
+ .black-logo{
+     display:none;
+}
+ .shauna-header-change .black-logo{
+     display:block;
+}
+ .shauna-header-change .white-logo{
+     display:none;
+}
+/***** Header CSS end *****/
+/****** Footer CSS start ******/
+ .susan-footer-area {
+     padding: 60px 0;
+     background-color: #F9F9F9;
+     color: #8B8282;
+     font-size:14px;
+}
+ .susan-single-widget h3{
+	font-size: 20px;
+	color: #6A5F5F;
+	font-weight: 700;
+	margin-bottom: 20px;
+	font-family: 'Lato';
+}
+ .susan-single-widget ul li a{
+	color: #6A5F5F;
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 8px;
+	font-weight: 500;
+}
+.browen-article-padding{
+	padding-left: 80px;
+padding-right: 80px
+}
+.margin-100{
+	height:100px;
+}
+
+
+/****** Footer CSS end ******/
+/***** Home CSS start *****/
+ .susan-home-banner h1{
+     font-size: 60px;
+     letter-spacing: 2.36px;
+     line-height: 50px;
+     font-family: 'Crimson Text';
+     font-weight: 400;
+}
+ .susan-home-banner a{
+     background-color: #FFFFFF;
+     font-size: 14px;
+     line-height: 17px;
+     display: inline-block;
+     color: #34495E;
+     font-weight: 900;
+     padding: 15px;
+     min-width: 185px;
+     text-align: center;
+     border-radius: 4px;
+}
+ .susan-home-banner a:last-child{
+     margin-left:10px;
+}
+ .susam-banner-arrow{
+     position: absolute;
+     bottom: 0px;
+     left: 0px;
+     width: 100%;
+     text-align: center;
+     padding-bottom: 20px;
+}
+ .susan-home-banner p{
+     font-size: 20px;
+     line-height: 27px;
+     font-family: 'Crimson Text';
+     font-weight:200;
+}
+ .susan-home-banner{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: #fff;
+	padding-top: 300px;
+	padding-bottom: 280px;
+	position: relative;
+	z-index: 1;
+	background-position: center center;
+	max-height: 850px;
+	overflow: hidden;
+}
+ .susan-featured-listings-area{
+     padding-top:100px;
+}
+ .susan-featured-heading{
+     font-size:20px;
+     color:#8B8282;
+     font-weight: 300;
+     padding-bottom:35px;
+}
+ .susan-single-fea-listing {
+     margin-bottom: 50px;
+     font-size: 14px;
+     color: #737373;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.1);
+     -webkit-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.1);
+     -moz-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.1);
+     -o-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.1);
+     border-radius: 4px;
+}
+ .susan-featured-info h3{
+     font-size:20px;
+     color:#2B2B33;
+     margin-bottom:5px;
+     font-family: 'Avenir Next';
+}
+ .susan-featured-info {
+     padding: 20px;
+}
+ .susan-featured-info p{
+     margin-bottom:5px;
+}
+ .susan-featured-info h4{
+     font-size:22px;
+     color:#2B2B33;
+     margin-bottom:0px;
+}
+ a.susan-read-more {
+     background-color: #000000;
+     color: #fff;
+     letter-spacing: 2.36px;
+     font-size: 14px;
+     display: inline-block;
+     padding: 15px;
+     min-width: 270px;
+     border-radius: 5px;
+     font-weight: 900;
+}
+ a.susan-read-more img{
+     margin-left:5px;
+     vertical-align: middle;
+}
+ .susan-testimonials-area{
+     padding-top: 120px;
+     padding-bottom: 145px;
+     font-size: 14px;
+     color: #737373;
+}
+ .susan-testimonials-area h2{
+     margin-bottom:50px;
+}
+ .susan-single-testimonial h4{
+     font-size:16px;
+     color:#474747;
+     font-weight:700;
+     margin-top: 30px;
+}
+ .susan-single-testimonial {
+     margin-bottom: 60px;
+     position: relative;
+     padding-left: 15px;
+     padding-right: 15px;
+}
+ .susan-single-testimonial::before {
+     content: "";
+     background-image: url(../images/iocn-1.png);
+     background-repeat: no-repeat;
+     position: absolute;
+     width: 35px;
+     height: 20px;
+     top: -10px;
+     left: -15px;
+}
+ .browen-article {
+     padding-top: 150px;
+     font-size: 19px;
+     color:#4C4C4C;
+     font-family: 'Avenir Next';
+     text-align: justify;
+}
+ .browen-article h2:before{
+     content:"|";
+     position:absolute;
+     left:-20px;
+     top:-1px;
+     color:#3A6F1A;
+}
+ .browen-article p strong{
+     font-family: 'Avenir Next Demi';
+     color:#434343;
+	 font-weight: 600;
+}
+ .browen-article h2{
+     color: #000000;
+     font-size: 40px;
+     margin-bottom: 10px;
+     position: relative;
+     margin-top: 15px;
+     font-family: 'AvenirNextLTW01BoldRegular';
+     font-weight:700;
+}
+ .margin-right-50{
+     margin-right:50px;
+}
+ a.article-read-more{
+     background-color: #000000;
+     color: #fff;
+     letter-spacing: 2.36px;
+     font-size: 14px;
+     display: inline-block;
+     padding: 15px;
+     border-radius: 5px;
+     min-width:215px;
+     text-align:center;
+     margin-right:20px;
+}
+/***** Home CSS end *****/
+/***** Seller CSS start *****/
+ .susan-page-banner {
+     min-height: 700px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     margin-bottom: -350px;
+}
+ .suller-main-content{
+     padding-top: 50px;
+     padding-left: 120px;
+     padding-right: 120px;
+     color:#474747;
+     font-size:16px;
+     padding-bottom:50px;
+}
+ .susan-single-seller {
+     margin-top: 50px;
+}
+ .susan-single-seller h3 {
+     font-weight: 200;
+     font-size: 30px;
+}
+/***** Seller CSS end *****/
+/**** About us CSS start ****/
+ .suller-about-content{
+     padding-top: 100px;
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-bottom: 70px;
+     font-size: 16px;
+     color: #474747;
+}
+ a.article-read-more img{
+     margin-left:5px;
+}
+ .suller-about-content p span{
+     font-weight: 200;
+     font-size: 30px;
+}
+ .suller-about-info{
+     margin-bottom:60px;
+}
+ .suller-about-info a{
+     background-color: #000000;
+     color: #fff;
+     letter-spacing: 2.36px;
+     font-size: 14px;
+     display: inline-block;
+     padding: 15px;
+     max-width: 270px;
+     border-radius: 5px;
+     font-weight: 900;
+     margin-top:70px;
+     text-align:center;
+     width:100%;
+}
+ .susan-projects img{
+     margin-bottom:15px;
+}
+ .susan-projects{
+     position: relative;
+}
+ .susan-project-details {
+     max-width: 600px;
+     background-color: #fff;
+     padding: 20px;
+     position: absolute;
+     top: 40%;
+     width: 70%;
+     left: 15%;
+     border-radius: 5px;
+}
+ .susan-project-details p{
+     margin-bottom:0px;
+}
+ .susan-bottom-project-details{
+     margin-top:70px;
+}
+ .susan-contact-link{
+     padding-top:100px;
+}
+ .susan-contact-link {
+     background-color: #333333;
+     color: #fff;
+     padding: 25px;
+     margin-top: 100px;
+     text-align:center;
+}
+ .susan-contact-link a{
+     background-color: #fff;
+     color: #000;
+     letter-spacing: 2.36px;
+     font-size: 14px;
+     display: inline-block;
+     padding: 15px;
+     min-width: 270px;
+     border-radius: 5px;
+     font-weight: 900;
+     margin-top:30px;
+     text-align:center;
+}
+ .professionalism-area h1{
+     text-align:center;
+     font-size:40px;
+     color:#000000;
+     letter-spacing:6px;
+     font-weight:500;
+     margin-top:50px;
+	 font-family: 'Avenir Next';
+}
+ .card, .card-header{
+     background-color: #F8F4F4;
+}
+ .single-more-text {
+     background-color: #333333;
+     color: #fff;
+     padding: 15px 30px;
+     border-radius: 0px 0px 5px 5px;
+     -webkit-border-radius: 0px 0px 5px 5px;
+     -moz-border-radius: 0px 0px 5px 5px;
+     -o-border-radius: 0px 0px 5px 5px;
+}
+ .single-more-images img{
+     border-radius: 5px 5px 0px 0px;
+     -webkit-border-radius: 5px 5px 0px 0px;
+     -moz-border-radius: 5px 5px 0px 0px;
+     -o-border-radius: 5px 5px 0px 0px;
+}
+ .single-more-info {
+     box-shadow: 0px 3px 4px 1px #a9acae;
+     -webkit-box-shadow: 0px 3px 4px 1px #a9acae;
+     -moz-box-shadow: 0px 3px 4px 1px #a9acae;
+     -o-box-shadow: 0px 3px 4px 1px #a9acae;
+     border-radius: 5px;
+     margin-top:70px;
+}
+ .more-information-area {
+     padding-top: 50px;
+}
+ .margin-top-80{
+     margin-top:80px;
+}
+ .single-more-text h3{
+     font-size: 24px;
+     font-weight:bold;
+     border-bottom: 1px solid #FFFFFF;
+     padding-bottom: 10px;
+}
+ .single-more-text p{
+     font-size:15px;
+     font-weight:300;
+}
+ .single-more-text ul li{
+     font-weight:300;
+     padding-left:35px;
+     position:relative;
+}
+ .single-more-text ul li:before{
+     content: "";
+     background-image: url(../images/check-circle.png);
+     background-repeat: no-repeat;
+     left: 0px;
+     top: 6px;
+     position: absolute;
+     width: 20px;
+     height: 20px;
+}
+ .single-more-text a{
+     color: #fff;
+     font-size: 20px;
+     display: inline-block;
+     width: 100%;
+     text-align: center;
+     font-family: 'Avenir Next';
+     margin-top: 45px;
+     margin-bottom: 25px;
+     font-weight:bold;
+}
+/**** About us CSS end ****/
+/****** Testimonials CSS start ******/
+ .susan-testimonial-info{
+     padding-top: 50px;
+     padding-left: 70px;
+     padding-right: 70px;
+     padding-bottom: 110px;
+     color: #474747;
+}
+ .susan-testimonial-info p{
+	font-size: 16px;
+	font-family: 'Lato';
+}
+.border-radius-5{
+	border-radius:5px;
+}
+ .margin-bottom-170{
+     margin-bottom:150px;
+}
+ .testimonial-about-area{
+     text-align:justify;
+}
+ .susan-testimonial-info h2.susan-heading, .susan-contact-area h2.susan-heading, .susan-buyer-area h2.susan-heading{
+     display:inline-block;
+     text-align:left!important;
+     margin-bottom:50px;
+}
+ .susan-more-testimonial button{
+     background-color: #000000;
+     color: #fff;
+     display: inline-block;
+     margin-top: 60px;
+     font-size: 14px;
+     padding-left: 0px;
+     padding-right: 0px;
+     cursor: pointer;
+     height: 55px;
+     border: 0px;
+     width: 100%;
+     max-width: 275px;
+     border-radius: 4px;
+     font-weight: 700;
+     letter-spacing: 2.36px;
+}
+ .height-60{
+     height:60px;
+}
+/****** Testimonials CSS end ******/
+/**** Contact us CSS start *****/
+ .susan-contact-back{
+     padding-bottom: 140px;
+     padding-left: 140px;
+     padding-right: 140px;
+     padding-top: 50px;
+     font-size: 25px;
+     font-weight: 200;
+     line-height: 29px;
+}
+ .susan-google-map {
+     filter: grayscale(100%);
+     -moz-filter: grayscale(100%);
+     -webkit-filter: grayscale(100%);
+     -o-filter: grayscale(100%);
+     margin-bottom:70px;
+}
+ .brown-contact-form {
+     background-color: #fff;
+     padding: 20px 70px;
+     text-align: center;
+     margin-top: 250px;
+     margin-bottom: 140px;
+     position: relative;
+}
+ .brown-contact-form input{
+     height:42px;
+     width:100%;
+     border:1px solid #7F7F7F;
+     border-radius:3px;
+     margin-bottom:20px;
+     padding-left:15px;
+     font-size:14px;
+     color:#7F7F7F;
+     font-weight:300;
+}
+ .brown-contact-form h3{
+     font-size:25px;
+     font-family: 'Avenir Next';
+     font-weight: 500;
+     margin-bottom:30px;
+}
+ .brown-contact-form textarea{
+     height:170px;
+     width:100%;
+     border:1px solid #7F7F7F;
+     border-radius:3px;
+     margin-bottom:20px;
+     padding-top:10px;
+     padding-left:15px;
+     font-size:14px;
+     color:#7F7F7F;
+     font-weight:300;
+}
+ .brown-contact-form button{
+     background-color:#2A2A2A;
+     color:#fff;
+     font-size:16px;
+     font-family: 'Avenir Next';
+     height:44px;
+     max-width:235px;
+     width:100%;
+     display:inline-block;
+     padding:5px;
+     border:0px;
+     cursor:pointer;
+}
+ .brown-social-links {
+     position: absolute;
+     left: 15px;
+     top: 30%;
+}
+ .brown-social-links a{
+     color:#000;
+     font-size:20px;
+     display:block;
+}
+/**** Contact us CSS end *****/
+/***** Buyer CSS start *****/
+ .susan-buyer-background{
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-top: 50px;
+	padding-bottom: 70px;
+	color: #474747;
+}
+ #accordion .card-header, #accordion .card-body{
+     background-color:#F8F4F4!important;
+}
+ .card-header a{
+     font-weight:700;
+     font-size:14px;
+     color:#858585;
+     display:inline-block;
+     width:100%;
+}
+ .card{
+     margin-bottom:15px;
+}
+ .card-header{
+     position:relative;
+}
+ .card-header a:before{
+     content: "\f068";
+     font-family: "fontawesome";
+     position: absolute;
+     right: 10px;
+     top: 13px;
+}
+ .card-header a.collapsed:before{
+     content: "\f067";
+}
+ #accordion {
+     margin-top: 50px;
+}
+ .susan-today-link a{
+     background-color: #000;
+     color: #fff;
+     letter-spacing: 2.36px;
+     font-size: 14px;
+     display: inline-block;
+     padding: 15px;
+     min-width: 270px;
+     border-radius: 5px;
+     font-weight: 900;
+     margin-top: 60px;
+     text-align: center;
+}
+.black-border{
+	height:1px;
+	width:100%;
+	background-color:#000;
+}
+/***** Buyer CSS end *****/
+/***** Cal CSS start ******/
+ .susan-cal-background{
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-top: 50px;
+     padding-bottom: 250px;
+}
+ .susan-cal-area h2, .cal-heading h2{
+     display:inline-block;
+     text-align:left!important;
+     margin-bottom:50px;
+}
+ .susan-cal-area{
+     color:#474747;
+     font-size:16px;
+     line-height:30px;
+}
+ .susan-cal-form label{
+     color: #474747;
+     font-size: 25px;
+     line-height: 29px;
+     font-weight: 200;
+     display: inline-block;
+     width: 100%;
+}
+ .susan-cal-form input{
+     width: 100%;
+     border: 1px solid #A79898;
+     outline: 0px;
+     padding-left: 20px;
+     color: #555555;
+     height: 48px;
+     font-size: 14px;
+     border-radius:2px;
+}
+ .susan-cal-form button{
+     width: 100%;
+     border: 0px;
+     cursor: pointer;
+     background-color: #333333;
+     color: #fff;
+     font-size: 16px;
+     line-height: 22px;
+     height: 48px;
+     border-radius: 2px;
+}
+ .susan-cal-form {
+     max-width: 640px;
+}
+ .susan-cal-form p{
+     margin-bottom:25px;
+}
+ .cal-heading{
+     padding-top:110px;
+}
+ .cal-table-info{
+     font-size: 14px;
+     line-height: 17px;
+     font-weight: 700;
+}
+ .cal-table{
+     font-size: 14px;
+     line-height: 19px;
+     color: #474747;
+     max-width: 750px;
+     margin: 0 auto;
+}
+ .cal-table table{
+     border:0px!important;
+}
+ .cal-table table tr td{
+     border:0px!important;
+}
+ .cal-table table tr th{
+     border-top:0px!important;
+     border-bottom:2px solid !important;
+}
+.slider-raper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+}
+/***** Cal CSS end ******/
+ 

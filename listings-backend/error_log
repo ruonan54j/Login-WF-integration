@@ -1,0 +1,217 @@
+[25-Apr-2019 09:44:17 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[25-Apr-2019 09:44:17 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[25-Apr-2019 10:22:11 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[25-Apr-2019 10:22:11 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[25-Apr-2019 10:22:14 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[25-Apr-2019 10:22:14 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[25-Apr-2019 10:22:18 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[25-Apr-2019 10:22:18 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[25-Apr-2019 10:30:29 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[25-Apr-2019 10:30:29 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[25-Apr-2019 10:30:34 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[25-Apr-2019 10:30:34 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[25-Apr-2019 10:30:37 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[25-Apr-2019 10:30:37 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[28-Apr-2019 17:46:09 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[28-Apr-2019 17:46:09 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[03-May-2019 16:13:48 America/New_York] PHP Notice:  Undefined index: username in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/control.php on line 37
+[03-May-2019 16:13:49 America/New_York] PHP Notice:  Undefined index: username in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/control.php on line 37
+[03-May-2019 16:24:13 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 16:24:13 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[03-May-2019 16:28:33 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 16:29:38 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined index: path in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 60
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 131
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 132
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 133
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 134
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 4 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 5 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 6 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 7 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:58 America/New_York] PHP Notice:  Undefined offset: 8 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:33:59 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined index: path in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 60
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 131
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 132
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 133
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 134
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 4 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 5 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 6 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 7 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:30 America/New_York] PHP Notice:  Undefined offset: 8 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[03-May-2019 16:34:31 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 16:49:21 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 16:50:11 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 17:08:05 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[03-May-2019 17:20:06 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[03-May-2019 17:21:01 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[04-May-2019 12:24:32 America/New_York] PHP Notice:  Undefined index: username in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 10
+[04-May-2019 12:24:32 America/New_York] PHP Notice:  Undefined index: password in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 11
+[04-May-2019 12:24:32 America/New_York] PHP Notice:  Undefined index: name in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 12
+[04-May-2019 12:24:32 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 15
+[04-May-2019 12:24:32 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php on line 8
+[04-May-2019 12:24:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php on line 286
+[04-May-2019 12:25:53 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[04-May-2019 12:25:53 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[04-May-2019 12:28:03 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[04-May-2019 12:28:03 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[29-May-2019 16:09:19 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 30
+[29-May-2019 16:09:19 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 16:09:19 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 16:09:19 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 16:09:19 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 16:09:19 America/New_York] PHP Notice:  Undefined variable: collectionID in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 57
+[29-May-2019 16:09:20 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: username in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 10
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: password in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 11
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: name in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 12
+[29-May-2019 17:16:57 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 15
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: username in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 10
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: password in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 11
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: name in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 12
+[29-May-2019 17:16:57 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 15
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: webflow_api in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 6
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined index: sub_domain in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 8
+[29-May-2019 17:16:57 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 335
+[29-May-2019 17:16:57 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 30
+[29-May-2019 17:16:58 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:16:58 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:16:58 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:16:58 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:16:58 America/New_York] PHP Notice:  Undefined variable: collectionID in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 57
+[29-May-2019 17:16:58 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[29-May-2019 17:16:58 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 357
+[29-May-2019 17:17:17 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 30
+[29-May-2019 17:17:17 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:17:17 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:17:17 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:17:17 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[29-May-2019 17:17:17 America/New_York] PHP Notice:  Undefined variable: collectionID in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 57
+[29-May-2019 17:17:17 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[30-May-2019 15:31:55 America/New_York] PHP Notice:  Undefined index: webflow_api in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 6
+[30-May-2019 15:31:55 America/New_York] PHP Notice:  Undefined index: sub_domain in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 8
+[30-May-2019 15:31:55 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 30
+[30-May-2019 15:31:55 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[30-May-2019 15:31:55 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[30-May-2019 15:31:55 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[30-May-2019 15:31:55 America/New_York] PHP Warning:  Illegal string offset 'name' in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 53
+[30-May-2019 15:31:55 America/New_York] PHP Notice:  Undefined variable: collectionID in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 57
+[30-May-2019 15:31:56 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/webflow_Api.php on line 30
+[30-May-2019 15:33:24 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 15:33:24 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[30-May-2019 15:36:04 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 15:36:40 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:06:32 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:06:35 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:06:38 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:06:41 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:06:44 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:06:47 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:30:52 America/New_York] PHP Notice:  Undefined index: username in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 10
+[30-May-2019 17:30:52 America/New_York] PHP Notice:  Undefined index: password in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 11
+[30-May-2019 17:30:52 America/New_York] PHP Notice:  Undefined index: name in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 12
+[30-May-2019 17:30:52 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 15
+[30-May-2019 17:30:52 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php on line 8
+[30-May-2019 17:30:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php on line 286
+[30-May-2019 17:32:47 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[30-May-2019 17:43:21 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[01-Jun-2019 14:22:57 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[01-Jun-2019 14:22:57 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[01-Jun-2019 14:23:38 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[01-Jun-2019 14:23:38 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[01-Jun-2019 14:24:22 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[01-Jun-2019 14:24:22 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[01-Jun-2019 14:24:41 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[01-Jun-2019 14:24:41 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[04-Jun-2019 13:42:39 America/New_York] PHP Notice:  Undefined index: path in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 60
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 131
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 132
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 133
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 134
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 4 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 5 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 6 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 7 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:40 America/New_York] PHP Notice:  Undefined offset: 8 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[04-Jun-2019 13:42:41 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[05-Jun-2019 18:46:24 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[06-Jun-2019 14:49:36 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[06-Jun-2019 17:20:25 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[06-Jun-2019 17:20:25 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[06-Jun-2019 17:31:23 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[06-Jun-2019 17:53:29 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[06-Jun-2019 17:54:18 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[06-Jun-2019 18:01:15 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[06-Jun-2019 18:06:54 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[07-Jun-2019 18:58:09 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[07-Jun-2019 18:59:32 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[07-Jun-2019 19:00:38 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[07-Jun-2019 19:00:53 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[07-Jun-2019 19:01:15 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[07-Jun-2019 19:01:33 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[12-Jun-2019 10:43:07 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 10:54:49 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 10:54:51 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 10:54:55 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 10:54:59 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 10:55:02 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:01:23 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:01:26 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:01:28 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:01:31 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:19:58 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:19:58 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[12-Jun-2019 11:20:01 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:20:01 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[12-Jun-2019 11:20:03 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:20:03 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[12-Jun-2019 11:20:06 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:20:06 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[12-Jun-2019 11:22:21 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 11:22:21 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[12-Jun-2019 12:17:53 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 12:17:53 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 134
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 85
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 131
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 132
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 133
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/propertyclass.php on line 134
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 0 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 1 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 2 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 3 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 4 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 5 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 6 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 7 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:46 America/New_York] PHP Notice:  Undefined offset: 8 in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 30
+[12-Jun-2019 12:18:48 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 12:19:18 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 12:19:20 America/New_York] PHP Warning:  Use of undefined constant _id - assumed '_id' (this will throw an Error in a future version of PHP) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/submitMLSID.php on line 133
+[12-Jun-2019 12:20:22 America/New_York] PHP Notice:  Undefined index: _id in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/editListing.php on line 352
+[12-Jun-2019 12:40:49 America/New_York] PHP Notice:  Undefined index: username in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 10
+[12-Jun-2019 12:40:49 America/New_York] PHP Notice:  Undefined index: password in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 11
+[12-Jun-2019 12:40:49 America/New_York] PHP Notice:  Undefined index: name in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 12
+[12-Jun-2019 12:40:49 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/databaseconnect.php on line 15
+[12-Jun-2019 12:40:49 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php on line 8
+[12-Jun-2019 12:40:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/webcjcyg/castlelab.properties/LoginWF_t/listings-backend/loggedin.php on line 286

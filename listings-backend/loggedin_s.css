@@ -1,0 +1,310 @@
+html {
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+}
+
+.pageContent {
+  width: 80%;
+  margin-left: 20%;
+}
+
+body {
+  font-family: Lato, sans-serif;
+}
+
+#side-title {
+  margin-bottom: 5%;
+  margin-top: 10%;
+  font-size: 2em;
+}
+
+#side-navbar {
+  position: fixed;
+  padding-top: 1%;
+  width: 20%;
+  margin-left: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  background-color: black;
+  color: white;
+  height: 100%;
+}
+
+#ul-side {
+  list-style-type: none;
+}
+
+.li-side a {
+  width: 100%;
+  color: white;
+  text-decoration: none;
+}
+
+.li-side {
+  border-left: solid white 0.1em;
+  padding: 10%;
+  margin: 0;
+  font-size: 1em;
+}
+
+.container {
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 8%;
+}
+
+.grey-box {
+  background: #eaeaea;
+  border-radius: 0.5vw;
+  width: 100%;
+  margin-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 3%;
+}
+
+.box-title {
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 2em;
+  color: #000000;
+  margin-bottom: 2%;
+}
+
+.input-b1 {
+  margin: 1% 2% 1% 2%;
+}
+
+.input-b2 {
+  width: 100%;
+  margin: 2% 0% 2% 0%;
+}
+
+input[type="text"] {
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 0.8em;
+  letter-spacing: 0.026em;
+  color: #7c8495;
+}
+
+.input-inner[type="text"] {
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 0.8em;
+  letter-spacing: 0.026em;
+  color: #7c8495;
+}
+
+textarea[type="text"] {
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 0.8em;
+  letter-spacing: 0.026em;
+  padding: 2%;
+  color: #7c8495;
+}
+
+textarea {
+  margin: 3% 0% 2% 0%;
+}
+
+.black-btn {
+  box-shadow: 0vw 0.7vw 1.6vw rgba(0, 0, 0, 0.24);
+  margin: 4% 1% 8% 0%;
+  font-style: normal;
+  line-height: 1em;
+  font-size: 0.8em;
+  text-align: center;
+  letter-spacing: 0.02em;
+  background: #000000;
+  border-radius: 0.4vw;
+  padding: 2% 4%;
+  color: white;
+}
+
+.grey-btn {
+  margin: 4% 1% 6% 0%;
+  font-style: normal;
+  line-height: 1em;
+  font-size: 0.8em;
+  text-align: center;
+  letter-spacing: 0.02em;
+  background: #b2b2b2;
+  border-radius: 0.4vw;
+  padding: 5%;
+  color: #303030;
+  width: 100%;
+}
+
+i {
+  color: #636363;
+  font-size: 1.1em;
+  width: 20%;
+}
+
+.photo-btn-txt {
+  width: 80%;
+}
+
+.tempPic {
+  margin: 0% 2% 2% 2%;
+  width: 20vw;
+}
+
+/*toggle*/
+
+input[type="checkbox"] {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+.labelSwitch {
+  cursor: pointer;
+  width: 4.1em;
+  height: 1.6em;
+  background: grey;
+  display: block;
+  border-radius: 1em;
+  position: relative;
+}
+
+.labelSwitch:after {
+  content: "";
+  position: absolute;
+  top: 0.25em;
+  right: 0.2em;
+  width: 1.2em;
+  height: 1.1em;
+  background: #eaeaea;
+  border-radius: 10em;
+  transition: 0.3s;
+}
+
+input:checked + label {
+  background: rgb(58, 75, 255);
+}
+
+input:checked + label:after {
+  right: calc(100% - 0.25em);
+  transform: translateX(100%);
+}
+
+.toggle-lbl {
+  margin: 0.3% 1.5%;
+}
+
+.toggle-div {
+  margin-top: 7%;
+}
+
+.footer-txt {
+  padding-top: 2vw;
+  width: 50%;
+  margin: 10% 25% 0% 25%;
+  line-height: 2.5vw;
+  font-size: 0.8em;
+  text-align: center;
+  letter-spacing: 0.15vw;
+
+  color: #ffffff;
+}
+
+.options-btn {
+  width: 100%;
+  position: absolute;
+  margin: 3%;
+  padding-bottom: 90%;
+}
+
+.options-select-btn {
+  font-size: 0.8em;
+  color: white;
+  background: black;
+  margin-right: 5%;
+  display: none;
+  border: none;
+  box-shadow: 0vw 0.7vw 1.6vw rgba(0, 0, 0, 0.24);
+  border-radius: 5%;
+  letter-spacing: 0.15vw;
+}
+
+.options-select-btn:hover {
+  background: #606060;
+}
+
+.listing:hover .options-select-btn {
+  display: block;
+}
+
+hr {
+  background-color: white;
+  margin-right: 3%;
+}
+/*pop up form!!*/
+#form-popup {
+  display: none;
+  position: fixed;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 0.3em solid #f1f1f1;
+  z-index: 9;
+  margin-top: 1%;
+  max-height: 90vh;
+  overflow: auto;
+}
+
+/* Add styles to the form container */
+.form-container {
+  padding: 5%;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.form-container input[type="text"],
+.form-container input[type="password"] {
+  width: 100%;
+  padding: 2%;
+  margin: 2% 0% 4% 0%;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type="text"]:focus,
+.form-container input[type="password"]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+.edit-Constant {
+  font-size: 1em;
+}
+
+#editCancel {
+  margin-left: 3%;
+}
+
+.upload-plus-btn {
+  border: none;
+  font-size: 1em;
+  border-radius: 10%;
+  background-color: black;
+  color: white;
+  opacity: 0.6;
+}
+
+.upload-plus-btn:hover {
+  opacity: 1;
+}
+
+#fileToUpload {
+  margin: 2% 0% 0% 0%;
+}

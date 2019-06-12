@@ -1,0 +1,388 @@
+.susam-banner-arrow, .home-mobile-banner {
+  display: none;
+}
+
+.social-links a {
+  color: black;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.to_hide {
+  -webkit-animation: hide 5s forwards;
+  animation: hide 3s forwards;
+}
+
+@-webkit-keyframes hide {
+  from {
+    opacity: 1;
+  }
+
+  40% {
+    opacity: 0;
+  }
+
+  100% {
+    position: absolute;
+    opacity: 0;
+  }
+}
+
+.home-mobile-banner {
+  background: url("../images/home-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-mobile-banner.banner2 {
+  background: url("../images/home-banner2.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-mobile-banner.banner3 {
+  background: url("../images/home-banner3.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-mobile-banner.banner4 {
+  background: url("../images/home-banner4.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-mobile-banner.banner5 {
+  background: url("../images/home-banner5.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-mobile-banner.banner6 {
+  background: url("../images/home-banner6.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-mobile-banner.banner7 {
+  background: url("../images/home-banner7.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-mobile-banner.banner8 {
+  background: url("../images/home-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 1050px) {
+  .susan-main-menu ul li a {
+    letter-spacing: 1px;
+    color: #fff !important;
+    font-size: 14px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding-bottom: 15px !important;
+  }
+
+  .susan-home-banner h1 {
+    font-size: 50px;
+  }
+
+  .suller-about-content, .susan-testimonial-info, .susan-contact-back, .susan-cal-background {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+  }
+
+  .browen-article .col-lg-6 {
+    margin-bottom: 15px;
+  }
+
+  .susan-buyer-background, .browen-article-padding {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar-nav {
+    background-color: #fff;
+  }
+
+  .susan-main-menu ul li a {
+    color: #000000 !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-bottom: 5px !important;
+  }
+
+  .susan-home-banner {
+    padding-top: 200px;
+    padding-bottom: 180px;
+  }
+
+  .susan-home-banner h1 {
+    font-size: 40px;
+    line-height: 1;
+  }
+
+  .susan-home-banner p {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  .susan-home-banner a {
+    margin-bottom: 10px;
+  }
+
+  .susan-home-banner a:last-child {
+    margin-left: 0px;
+  }
+
+  h2.susan-heading {
+    font-size: 40px;
+    line-height: 1;
+  }
+
+  .susan-featured-heading {
+    font-size: 16px;
+  }
+
+  .susan-single-testimonial::before {
+    top: -25px;
+    left: 0px;
+  }
+
+  .susan-footer-logo {
+    text-align: center;
+  }
+
+  .suller-main-content {
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+  }
+
+  .susan-single-seller h3 {
+    font-size: 22px;
+  }
+
+  .suller-about-content, .susan-testimonial-info, .susan-contact-back, .susan-cal-background {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
+
+  .susan-contact-link a {
+    min-width: 100%;
+  }
+
+  .susan-cal-form label {
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+  .browen-article {
+    padding-top: 50px;
+  }
+
+  .browen-article h2 {
+    font-size: 25px;
+  }
+
+  .browen-article {
+    font-size: 14px;
+  }
+
+  .professionalism-area h1 {
+    font-size: 30px;
+  }
+
+  .susan-buyer-background, .browen-article-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .susan-home-banner {
+    padding-top: 200px;
+    padding-bottom: 150px;
+  }
+
+  .navbar-dark .navbar-brand {
+    float: left;
+    width: 90%;
+    text-align: center;
+  }
+
+  .navbar-brand {
+    margin-right: 0px !important;
+  }
+
+  .shauna-header-change .black-logo {
+    display: inline;
+  }
+
+  .white-logo, .home-desktop-banner {
+    display: none;
+  }
+
+  .home-mobile-banner {
+    display: block;
+  }
+
+  .navbar-toggler {
+    margin-top: 10px;
+  }
+
+  .susan-page-banner {
+    min-height: 750px;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    background-attachment: fixed;
+    margin-bottom: -530px;
+    background-position: top center;
+  }
+}
+
+@media only screen and (max-width: 736px) {
+  .susan-home-banner {
+    padding-top: 200px;
+    padding-bottom: 150px;
+  }
+}
+
+@media only screen and (max-width: 667px) {
+  .susan-home-banner {
+    padding-top: 200px;
+    padding-bottom: 150px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .susan-home-banner {
+    padding-top: 250px;
+    padding-bottom: 54px;
+  }
+
+  .susan-featured-listings-area {
+    padding-top: 20px;
+  }
+
+  .navbar-dark .navbar-brand {
+    float: left;
+    width: 90%;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  a.navbar-brand {
+    width: 75%;
+  }
+
+  .navbar-brand {
+    margin-right: 0px;
+  }
+
+  .medallion-logo {
+    margin-right: 20px;
+  }
+
+  .leading-logo {
+    width: 47%;
+  }
+
+  .navbar-dark .navbar-brand {
+    width: 85%;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  .navbar-dark .navbar-brand {
+    width: 85%;
+  }
+
+  .black-logo {
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .medallion-logo {
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .navbar-dark .navbar-brand {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .medallion-logo {
+    margin-right: 3px;
+  }
+
+  .leading-logo {
+    width: 45%;
+  }
+
+  .medallion-logo {
+    width: 23%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .susan-home-banner {
+    padding-top: 175px;
+    padding-bottom: 37px;
+  }
+}
