@@ -46,10 +46,7 @@
      if($item_id != '') {
           $delete_res=item_delete('DELETE',$item_id);
          // file_put_contents("delete_res.txt","\n".print_r($delete_res ,true),FILE_APPEND);
-         echo "<script type='text/javascript'> 
-          window.location='loggedin.php';
-          alert('Success, Listing removed');
-          </script>";
+        
      }
     
     

@@ -154,7 +154,7 @@
       
 
          $data='{
-                "domains": "['.$_SESSION['sub_domain2'].','.$_SESSION['sub_domain1'].']" 
+                "domains": ["'.$_SESSION['sub_domain2'].'","'.$_SESSION['sub_domain'].'"] 
     		    }';
              
             echo "<script>console.log( 'domain: ".$data."');</script>";

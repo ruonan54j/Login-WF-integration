@@ -28,6 +28,7 @@
             $_SESSION['webflow_api'] = $row['webflow_api'];
             $_SESSION['sub_domain'] = $row['sub_domain'];
             $_SESSION['sub_domain2'] = $row['sub_domain2'];
+
             include("loggedin.php");
         }else{
             echo "<script>
@@ -36,7 +37,9 @@
             </script>";
         }
     }else if($_SESSION['username'] != ''){
+    
             include("loggedin.php");
+            
     }else{
             echo "<script>
             window.location.href='index.html';

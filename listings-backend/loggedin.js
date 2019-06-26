@@ -103,6 +103,7 @@ function remove(elem,id,type) {
     success: function(data) {
       console.log(data);
       location.reload();
+      alert("Success, listing removed");
     },
     error: function(xhr, status, error) {
       alert(xhr.responseText+status.responseText+error.responseText);

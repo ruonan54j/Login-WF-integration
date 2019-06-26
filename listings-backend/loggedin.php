@@ -3,7 +3,6 @@
 include('propertyclass.php');
 include('databaseconnect.php');
 
-
 $sql = "SELECT * FROM property";
 $result = $conn->query($sql);
 
