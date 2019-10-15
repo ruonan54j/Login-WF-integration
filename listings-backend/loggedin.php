@@ -10,6 +10,7 @@ function make_card($property,$new,$selling, $sold = 0) {
     //echo "===========================";
     $Item_id=$property->webflow_Item_id;
     $mlsid = $property->mlsid;
+
     $jsonImg = json_encode($property->images);
     $jsonImg = str_replace("\"", "", $jsonImg);
     $jsonImg = str_replace("'", "", $jsonImg);
@@ -62,6 +63,10 @@ function make_card($property,$new,$selling, $sold = 0) {
             echo "<div class='lisitngs-outer' mlsid={$property->mlsid} >";
         }
     }
+    //fix resolution
+    $fix_img = explode("?", $property->image );
+    $property->image = $fix_img[0];
+        
     echo "<img src='{$property->image}' class='img-responsive' style='width:100%' alt=''>";
     echo '<div style="padding: 10px;">';
     echo "<h4>{$property->streetaddress}</h4>";

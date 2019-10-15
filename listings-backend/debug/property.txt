@@ -2643,3 +2643,458 @@ Property Object
     [Year_Built] => Built in 1980 (39 yrs old)
     [Brokerage] => Faith Wilson Group
 )
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => https://www.rew.ca/assets/misc/share-preview-73cb28c9f5ffb5c3c027a873c26ebb9b9f118ca5039a24adf231060a4b879cb5.png
+    [images] => Array
+        (
+            [0] => https://www.rew.ca/assets/misc/share-preview-73cb28c9f5ffb5c3c027a873c26ebb9b9f118ca5039a24adf231060a4b879cb5.png
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => https://www.rew.ca/assets/misc/share-preview-73cb28c9f5ffb5c3c027a873c26ebb9b9f118ca5039a24adf231060a4b879cb5.png
+    [images] => Array
+        (
+            [0] => https://www.rew.ca/assets/misc/share-preview-73cb28c9f5ffb5c3c027a873c26ebb9b9f118ca5039a24adf231060a4b879cb5.png
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => https://www.rew.ca/assets/misc/share-preview-73cb28c9f5ffb5c3c027a873c26ebb9b9f118ca5039a24adf231060a4b879cb5.png
+    [images] => Array
+        (
+            [0] => https://www.rew.ca/assets/misc/share-preview-73cb28c9f5ffb5c3c027a873c26ebb9b9f118ca5039a24adf231060a4b879cb5.png
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2375516
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2375516
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2375516
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2375516
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2374630
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => 
+    [images] => Array
+        (
+        )
+
+    [description] => 
+    [price] => 
+    [streetaddress] => 
+    [addressLocality] => 
+    [addressProvince] => 
+    [postalCode] => 
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 
+    [bathrooms] => 
+    [propsize] => 
+    [proptype] => 
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => 
+    [Brokerage] => 
+)
+Property Object
+(
+    [mlsid] => R2401682
+    [image] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/01.jpeg
+    [images] => Array
+        (
+            [0] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/01.jpeg
+            [1] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/02.jpeg
+            [2] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/03.jpeg
+            [3] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/04.jpeg
+            [4] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/05.jpeg
+            [5] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/06.jpeg
+            [6] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/07.jpeg
+            [7] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/08.jpeg
+            [8] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/09.jpeg
+            [9] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/10.jpeg
+            [10] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/11.jpeg
+            [11] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/12.jpeg
+            [12] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/13.jpeg
+            [13] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/14.jpeg
+            [14] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/15.jpeg
+            [15] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/16.jpeg
+            [16] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/17.jpeg
+            [17] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/18.jpeg
+            [18] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/19.jpeg
+            [19] => https://assets-listings.rew.ca/brc_idx_rew/brc/R2401682/20190904163544/20.jpeg
+        )
+
+    [description] => Enjoy STUNNING mountain views from this rarely available gem in the heart of the Norquay Village Neighborhood. This NW corner unit, 2 bed + den home at Kensington Gardens by Westbank is conveniently located close to Norquay Village shopping, Nanaimo Skytrain station, a new T&T Supermarket downstairs and only 15 minutes to downtown , Richmond and Burnaby - a true central location. Along with beautifully design interiors, the residents-only amenities include a theater room, outdoor pool, hot tub, residents lounge and a large centre courtyard to name a few. 2 side x side parking. School Catchment: George T. Cunningham Elementary. Gladstone Secondary. Laura Secord Elementary (French Immersion), Vancouver Technical Secondary (French Immersion). Don't miss out!OPEN HOUSE OCT12|11AM-1PM OR Call to book a private showing!
+    [price] => $799,000
+    [streetaddress] => 608-4638 Gladstone Street
+    [addressLocality] => Vancouver
+    [addressProvince] => Vancouver
+    [postalCode] => V5N 0G5
+    [propertyoverview] => Array
+        (
+        )
+
+    [beds] => 2
+    [bathrooms] => 2
+    [propsize] => 790
+    [proptype] => Apt/Condo
+    [wfPropertyId] => 
+    [Lot_Size] => 
+    [Year_Built] => Built in 2018 (1 yrs old)
+    [Brokerage] => Rennie & Associates Realty Ltd.
+)

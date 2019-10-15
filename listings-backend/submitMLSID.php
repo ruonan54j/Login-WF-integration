@@ -143,9 +143,12 @@ function push_to_webflow($property) {
 if($mlsid1 != "") {
     
     $property1 = new Property($mlsid1);
-    
+    echo "<script type='text/javascript'>console.log('here');
+    </script>";
     $property1->getdata();
-    
+    echo "<script type='text/javascript'>console.log('here2');
+    </script>";
+    console.log($property1);
     $property_id=push_to_webflow($property1);
     
     $property1->setwfPropertyId($property_id);

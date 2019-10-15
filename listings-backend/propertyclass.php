@@ -28,37 +28,28 @@ class Property {
        
      $summaryitems = [];
      
-     $url = "https://www.rew.ca/properties/search";
-     
-     $post_data = array('property_search[query]' => "{$this->mlsid}",
-                         'property_search[initial_search_method]' => 'single_field' // Note initial_search_method is just there because it is required
-                         );
-   
-    $httpquery = http_build_query($post_data);
- 
+    $url = 'http://rew.ca/properties/search/build?property_search[query]='.$this->mlsid;
+    #$url ='https://www.rew.ca/properties/R2401682/608-4638-gladstone-street-vancouver-bc';
     $ch = curl_init();
 
-    curl_setopt($ch,CURLOPT_URL,$url);
-
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
     curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; CrawlBot/1.0.0)');
 
     curl_setopt($ch,CURLOPT_HEADER,0);
 
     curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
 
-    curl_setopt($ch,CURLOPT_POST,1);
-
-    curl_setopt($ch,CURLOPT_POSTFIELDS,$httpquery);
-
     $output = curl_exec($ch);
-
-    curl_close($ch);
-
     $output = json_decode($output,TRUE);
-    
-    
+    print_r($output);
+    echo $output['path'];
     $url = "https://www.rew.ca{$output['path']}";
 
+    echo "<script type='text/javascript'>console.log('".$url."');
+    </script>";
+    echo "<script type='text/javascript'>console.log('".$output."');
+    </script>";
    //Page found
 
     $ch = curl_init();
@@ -72,7 +63,10 @@ class Property {
     curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
 
     $output = curl_exec($ch);
-  
+
+    $dom = new DOMDocument();
+    @$dom->loadHTML($output);
+    print_r($dom);
     //Parsing output
     $dom = new DOMDocument();
     @$dom->loadHTML($output);
@@ -164,7 +158,7 @@ class Property {
       include("databaseconnect.php");
      
       $this->images = implode(",",$this->images);
-     
+
       $this->description= $conn->real_escape_string($this->description);
      
       $prop_type='';
