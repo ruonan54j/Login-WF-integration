@@ -1,7 +1,10 @@
-You will also need access to our phpmyadmin to make and edit databases.
+# Real Estates Listings Platform
 
-You will be able to access it through our cpannel.
+Platform for realtors to manage the listings displayed on their website.
 
-http://webcr.website/cpanel
-webcjcyg
-x5w1HpUYMC2G
+# Overview
+
+Listings can be added manually with multiple photo uploads or it can be added through mlsid. Mlsid is used as parameter to scrape real estate listings website to retrieve relevant info. 
+
+Platform is also compatible with websites built on webflow, fully integrated with their CMS
+
